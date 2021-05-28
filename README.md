@@ -10,7 +10,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-282A36?style=flat&logo=javascript)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-282A36?style=flat&logo=PHP)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-282A36?style=flat&logo=bootstrap)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-282A36?style=flat&logo=laravel)&nbsp;
 ![C++](https://img.shields.io/badge/C++-282A36?style=flat&logo=c%2B%2B)&nbsp;
 
 ## My Github Stats
