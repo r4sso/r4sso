@@ -1,7 +1,7 @@
 ## Hey 👋
 ![OS Badge](https://img.shields.io/badge/OS-linux-blue?&logo=Linux)
 [![Gmail Badge](https://img.shields.io/badge/-r4ssonull@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:r4ssonull@gmail.com)](mailto:r4ssonull@gmail.com) 
-[![Github Badge](https://img.shields.io/badge/-r4sso-grey?style=flat&logo=github&logoColor=white&link=https://github.com/r4sso/)](https://www.github.com/r4sso/)
+[![Github Badge](https://img.shields.io/badge/-r4sso-grey?style=flat&logo=github&logoColor=white&link=https://github.com/r4sso/)](https://www.github.com/r4sso/)]
 [![Twitter Badge](https://img.shields.io/badge/-r4ssonull-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/r4ssonull/)](https://www.twitter.com/r4ssonull/)
 <p align='left'>I'm a penetration tester and I love about computer and here are some of my project ​​</p>
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/ner0.png)
