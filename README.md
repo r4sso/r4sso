@@ -21,4 +21,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r4sso&layout=compact&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe)](https://github.com/r4sso/github-readme-stats)
 
 ## Other
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/ner0.pn)
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/ner0.png)
