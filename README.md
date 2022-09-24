@@ -1,7 +1,7 @@
 ## Hello World!
 Hello there! 👋
 I am a web developer and penetration tester. I love anything about computer.
-I also do blog & writeup. If you intrested its available on my website:)
+I also do blog & writeup. If you intrested its available on my website:) *Hope you enjoy my broken grammar:V
 
 Here are some of my project
 
