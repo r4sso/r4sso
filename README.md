@@ -1,6 +1,7 @@
 ## Hello World!
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white)
+![](https://komarev.com/ghpvc/?username=r4sso&style=for-the-badge)
 <br>
 Hello there! 👋
 <br><br>
