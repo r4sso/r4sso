@@ -1,5 +1,3 @@
-![staring-donkey](https://i.kym-cdn.com/photos/images/newsfeed/002/336/945/e1c)
-
 ## Hello World!
 Hello there! 👋
 I have a keen interest in cybersecurity mainly offensive side.
