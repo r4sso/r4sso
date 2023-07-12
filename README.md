@@ -1,10 +1,9 @@
 ## Hello World!
 Hello there! 👋
-I am a web developer and penetration tester. I love anything about computer.<br>
-I also do blog & writeup.<br>
-If you intrested its available on my website:) 
+I have a keen interest in cybersecurity mainly offensive side.
+I also do blog & writeup.If you intrested its available on my website:) 
 <br>
-Here are some of my project
+Here you will find some of my projects.
 
 ## My Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=r4sso alt=r4sso /> </p>
