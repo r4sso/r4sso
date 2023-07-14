@@ -19,8 +19,8 @@ Here you will find some of my projects.
 ![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r4sso&show_icons=true&theme=transparent&hide_border=true&bg_color=010409)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r4sso&layout=compact&theme=transparent&hide_border=true&bg_color=010409)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r4sso&show_icons=true&theme=transparent&hide_border=true&bg_color=010409&text_color=9aa1ac)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r4sso&layout=compact&theme=transparent&hide_border=true&bg_color=010409&text_color=9aa1ac)
 ## Contact
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:0xr4sso@proton.me)
 ## Support Me
