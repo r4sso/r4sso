@@ -11,7 +11,7 @@ Hello there! 👋
 ![My Skills](https://skillicons.dev/icons?i=linux,bash,git,docker,html,css,tailwind&perline=7)
 
 
-### ✉ &nbps;Contact
+### ✉ &nbsp;Contact
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:0xr4sso@proton.me) 
 
 ### ☕ &nbsp;Support Me
