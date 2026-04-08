@@ -3,8 +3,9 @@
 <br><br>
 Hello there! 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r4sso&show_icons=true&theme=transparent&hide_border=true&bg_color=010409&text_color=9aa1ac)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r4sso&layout=compact&theme=transparent&hide_border=true&bg_color=010409&text_color=9aa1ac)
+### GitHub Stats
+
+![Metrics](/github-metrics.svg)
 
 ### 🛠 &nbsp;Tools & Technologies
 
