@@ -1,9 +1,5 @@
 ## Hello World!
 ![](https://komarev.com/ghpvc/?username=r4sso&style=for-the-badge)
-<br><br>
-Hello there! 👋
-
-### GitHub Stats
 
 ![Metrics](/github-metrics.svg)
 
