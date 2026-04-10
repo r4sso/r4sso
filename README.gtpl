@@ -17,6 +17,4 @@
 {{- end }}
 
 ### Support Me
-[![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)](https://r4sso.github.io/images/dono/monero.png) 
-<br>
-`89VfjAENz2w5fWmmYyonP4KQyJjZ2iysEeevAXJcHCaTgDY3UBmAL223udSkLbapgUJnYxpwJ1MGKAvHLmtirjHA5C9kWSN`
+[![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)](https://r4sso.github.io/images/dono/monero.png) : `89VfjAENz2w5fWmmYyonP4KQyJjZ2iysEeevAXJcHCaTgDY3UBmAL223udSkLbapgUJnYxpwJ1MGKAvHLmtirjHA5C9kWSN`
